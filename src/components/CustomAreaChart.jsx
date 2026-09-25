@@ -22,11 +22,12 @@ const chartData = [
   { date: "May 7", desktop: 388, mobile: 300 },
   { date: "May 14", desktop: 448, mobile: 490 },
   { date: "May 21", desktop: 82, mobile: 640 },
-  { date: "May 28", desktop: 233, mobile: 690 },
-  { date: "Jun 7", desktop: 323, mobile: 670 },
-  { date: "Jun 14", desktop: 426, mobile: 680 },
-  { date: "Jun 21", desktop: 317, mobile: 670 },
-  { date: "Jun 30", desktop: 446, mobile: 1000 },
+  { date: "May 21", desktop: 82, mobile: 640 },
+  // { date: "May 28", desktop: 233, mobile: 690 },
+  // { date: "Jun 7", desktop: 323, mobile: 670 },
+  // { date: "Jun 14", desktop: 426, mobile: 680 },
+  // { date: "Jun 21", desktop: 317, mobile: 670 },
+  // { date: "Jun 30", desktop: 446, mobile: 1000 },
 ]
 
 const chartConfig = {
