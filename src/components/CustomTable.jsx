@@ -32,7 +32,7 @@ function CustomTable() {
               <TableCell>${payment.amount}</TableCell>
               <TableCell>{payment.status}</TableCell>
               <TableCell>{payment.email}</TableCell>
-
+              
               <TableCell>{payment.phone}</TableCell>
             </TableRow>
           ))}

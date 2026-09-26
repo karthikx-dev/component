@@ -27,6 +27,11 @@ const chartData = [
   { date: "Jun 14", desktop: 426, mobile: 680 },
   { date: "Jun 21", desktop: 317, mobile: 670 },
 
+
+  { date: "September 29", desktop: 317, mobile: 123 },
+  { date: "June 12", desktop: 317, mobile: 123 },
+  { date: "Feb 08", desktop: 317, mobile: 120 },
+
 ]
 
 const chartConfig = {
